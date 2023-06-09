@@ -29,7 +29,7 @@ const Homepage = () => {
         <Title
           align="center"
           sx={(theme) => ({
-            fontFamily: `Greycliff CF, ${theme.fontFamily}`,
+            fontFamily: `work sans, ${theme.fontFamily}`,
             fontWeight: 900,
             padding: "0 100px",
           })}
