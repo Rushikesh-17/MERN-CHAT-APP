@@ -20,7 +20,7 @@ const chatModel = mongoose.Schema(
       type: mongoose.Schema.Types.ObjectId,
       ref: "Message",
     },
-    groupAdmnin: {
+    groupAdmin: {
       type: mongoose.Schema.Types.ObjectId,
       ref: "User",
     },
